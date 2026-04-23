@@ -117,7 +117,5 @@ python search.py
 ```bash
 python visualize.py
 
----
-
-
+```
 
